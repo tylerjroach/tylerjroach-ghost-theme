@@ -1,21 +1,21 @@
 {
-  "name": "Ghostium",
-  "version": "2.2.1",
+  "name": "tylerjroach-ghost-theme",
+  "version": "2.2.2",
   "description": "A Ghost theme focused on content based on Medium design/ux",
-  "url": "http://ghostium.oswaldoacauan.com/",
-  "copyright": "2013",
+  "url": "https://github.com/tylerjroach/tylerjroach-ghost-theme",
+  "copyright": "2015",
   "license": "MIT",
   "author": {
-    "name": "Oswaldo Acauan",
-    "email": "hello@oswaldoacauan.com",
-    "url": "http://oswaldoacauan.com"
+    "name": "Tyler Roach",
+    "email": "tylerjroach@gmail.com",
+    "url": "http://tylerjroach.com"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:oswaldoacauan/ghostium.git"
+    "url": "git@github.com:tylerjroach/tylerjroach-ghost-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/oswaldoacauan/ghostium/issues"
+    "url": "https://github.com/tylerjroach/tylerjroach-ghost-theme/issues"
   },
   "keywords": [
     "ghost",
